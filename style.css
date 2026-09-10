@@ -1725,7 +1725,7 @@ textarea {
 }
 /* Icons styling */
 .fa-facebook-f{
-    color:rgb(7, 11, 223);
+    color: blue;
 }
 
 .fa-whatsapp{
@@ -1749,9 +1749,6 @@ textarea {
     color:rgb(221, 74, 164);
 }
 
-.fa-x-twitter{
-    color:rgb(0, 0, 0);
-}
 
 .fa-telegram{
     color:rgb(31, 187, 236);
