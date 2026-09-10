@@ -1722,3 +1722,43 @@ textarea {
     }
 
 }
+}
+/* Icons styling */
+.fa-facebook-f{
+    color:rgb(7, 11, 223);
+}
+
+.fa-whatsapp{
+    color:rgb(34, 209, 34);
+}
+
+.fa-youtube{
+    color:rgb(255, 0, 0);
+}
+
+.fa-tiktok{
+    color:rgb(255, 255, 255);
+}
+
+
+.fa-linkedin-in{
+    color:rgb(0, 119, 181);
+}
+
+.fa-instagram{
+    color:rgb(221, 74, 164);
+}
+
+.fa-x-twitter{
+    color:rgb(0, 0, 0);
+}
+
+.fa-telegram{
+    color:rgb(31, 187, 236);
+}
+.fa-phone{
+    color:#2fda14;
+}
+.fa-envelope{
+    color:rgb(225, 165, 12);
+}
