@@ -6,8 +6,8 @@
     --bg-darker: #040b14;
     --bg-card: #0d1b2a;
 
-    --primary: #17e414;
-    --primary-dark: #2fda14;
+    --primary: #17e814;
+    --primary-dark: #081e22;
 
     --secondary: #38bdf8;
 
@@ -17,7 +17,7 @@
     --border: rgba(255, 255, 255, 0.08);
 
     /* Effects */
-    --shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+    --shadow: 0 20px 50px rgba(15, 9, 9, 0.232);
 
     --radius-sm: 10px;
     --radius-md: 16px;
@@ -1183,7 +1183,7 @@ textarea {
 
 
     .security-card {
-        width: 90%;
+        width: 100%;
         padding: 25px;
     }
 
@@ -1598,7 +1598,7 @@ textarea {
     .section,
     .privacy-section,
     .footer-container {
-        width: 100%;
+        width: 97%;
     }
 
 
@@ -1762,7 +1762,7 @@ textarea {
 /* PRIVACY SECTION */
 
     .privacy-section {
-        width: 100%;
+        width: 97%;
         margin: 0 auto;
         padding: 20px 30px;
     }
