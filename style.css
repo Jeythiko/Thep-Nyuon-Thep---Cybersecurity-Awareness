@@ -233,6 +233,8 @@ textarea {
     align-items: center;
 
     gap: 30px;
+
+    background: rgb(48, 50, 50);
 }
 
 
@@ -240,7 +242,7 @@ textarea {
 
     position: relative;
 
-    color: var(--text-muted);
+    color: rgb(240, 244, 245);
 
     font-size: 14px;
 
@@ -256,7 +258,7 @@ textarea {
 .nav-links a:hover,
 .nav-links a.active {
 
-    color: var(--text-main);
+    color: rgb(21, 255, 0);color: var(--text-main);
 }
 
 
